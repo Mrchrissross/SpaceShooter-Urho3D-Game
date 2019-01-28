@@ -1,0 +1,10 @@
+<material>
+	<technique name="Techniques/DiffNormalSpec.xml"/>
+	<texture name="Textures/untitled.png" unit="diffuse"/>
+	<texture name="Textures/E-45-nor_1.jpg" unit="normal"/>
+	<texture name="Textures/Spec_1.png" unit="specular"/>
+	<parameter name="MatDiffColor" value="0.64 0.64 0.64 1"/>
+	<parameter name="MatSpecColor" value="1 1 1 10"/>
+	<cull value="none"/>
+	<shadowcull value="none"/>
+</material>

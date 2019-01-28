@@ -1,0 +1,9 @@
+<cubemap>
+    <face name="Space_Right.jpg" />
+    <face name="Space_Left.jpg" />
+    <face name="Space_Top.jpg" />
+    <face name="Space_Bottom.jpg" />
+    <face name="Space_Front.jpg" />
+    <face name="Space_Back.jpg" />
+    <quality low="0" />
+</cubemap>

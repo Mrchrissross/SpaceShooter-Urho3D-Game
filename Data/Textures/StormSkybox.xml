@@ -1,0 +1,9 @@
+<cubemap>
+    <face name="Storm_PosX.jpg" />
+    <face name="Storm_NegX.jpg" />
+    <face name="Storm_PosY.jpg" />
+    <face name="Storm_NegY.jpg" />
+    <face name="Storm_PosZ.jpg" />
+    <face name="Storm_NegZ.jpg" />
+    <quality low="0" />
+</cubemap>
